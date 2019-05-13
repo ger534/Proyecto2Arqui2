@@ -1,0 +1,10 @@
+*** Para esto, deber´a implementarse (de ser el caso) un l´ogica de detecci´on de riesgos, que puede realizarse por programa o
+por medio de la organizaci´on. 
+
+*** 4 lanes
+
+*** concurrencia
+
+
+cada lane es la alu mas los registros a los que se pega y todo eso, basicamente 
+cada etapa completa de execute duplicada

@@ -1,0 +1,8 @@
+STIMAGEN    ; TENGO QUE AGARRAR LA IMAGEN Y GUARDARLA EN MEM? O YA ESTA EN MEM?
+            ; R: No importa como la cargue
+
+LDV         V1, V2, #0 ;carga la imagen ("guardada en V2)
+LDS         R1, R2, #256 ;carga la clave (immediatos de maximo 256)
+XORV        V4, V1, R1 ;aplica la operacion XOR en cada uno de los elementos guardados
+
+#usar pragmas para replicacion

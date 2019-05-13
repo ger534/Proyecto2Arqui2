@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/23026095/how-do-you-simulate-hardware-in-python
+https://www.linuxjournal.com/article/7542
+https://pdfs.semanticscholar.org/60d3/2fbb0989ef717df5af52d3aad61af94e114b.pdf
+https://omnichannelretailingforum.com/11379-mips-green-card-why-is-mips-green-card-considered-underrated 
+
+
+Traceback (most recent call last):
+  File "/home/ger534/Desktop/Arqui/proyecto2/examplePygame.py", line 2, in <module>
+    import pygame
+ModuleNotFoundError: No module named 'pygame'
+
+
+
+sudo apt install python3-pip
+pip3 install pygame
+
+pip install Pillow
